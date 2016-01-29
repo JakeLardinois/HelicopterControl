@@ -8,3 +8,6 @@
   * http://www.iguanaworks.net/products/usb-accessories/
 * Headphone Extension cable
   * http://www.iguanaworks.net/products/usb-accessories/
+
+####Alternatives
+Check out [this branch] (https://github.com/JakeLardinois/HelicopterControl/tree/Netduino) for a project that uses a Netduino to remotely control the Helicopter.
