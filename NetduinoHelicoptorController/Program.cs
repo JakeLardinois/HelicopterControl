@@ -25,6 +25,14 @@ namespace NetduinoHelicoptorController
          * http://www.sbprojects.com/knowledge/ir/index.php
          * http://www.kerrywong.com/2012/08/27/reverse-engineering-the-syma-s107g-ir-protocol/
          * https://learn.adafruit.com/ir-sensor/using-an-ir-sensor
+         * 
+         * https://learn.sparkfun.com/tutorials/how-to-read-a-schematic
+         * https://learn.sparkfun.com/tutorials/what-is-a-circuit
+         * http://www.wdpsoftware.com/wdpsIRC2/index.html
+         * http://forums.netduino.com/index.php?/topic/8557-infrared-receiver-on-netduino/
+         * https://highfieldtales.wordpress.com/2011/12/04/very-fast-spi-to-parallel-interface-for-netduino/
+         * https://highfieldtales.wordpress.com/tag/infrared/
+         * 
          */
 
         public static void Main()
